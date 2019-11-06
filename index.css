@@ -1,0 +1,41 @@
+#nav {
+  color: red;
+  width: 100%;
+}
+
+#telo {
+  padding: 30px;
+  margin: 10%;
+  border-style: solid;
+  border-width: 1px;
+
+  webkit-box-shadow: 10px 10px 77px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 10px 77px 0px rgba(0,0,0,0.75);
+box-shadow: 10px 10px 77px 0px rgba(0,0,0,0.75);
+
+background-color: white;
+}
+
+h1 {
+  text-align: center;
+}
+
+a {
+  -webkit-box-shadow: 0px 0px 37px -4px rgba(0,0,0,0.75);
+  -moz-box-shadow: 0px 0px 37px -4px rgba(0,0,0,0.75);
+  box-shadow: 0px 0px 37px -4px rgba(0,0,0,0.75);
+  border-radius: 20px;
+  text-decoration: none;
+  border-style: solid;
+  padding: 10px;
+  border-width: 1px;
+  background-color: #e6e6e6;
+  color: black;
+}
+
+body  {
+font-size: 200%;
+font-family: 'Rouge Script', cursive;
+background-color: #eff0dd
+
+}
